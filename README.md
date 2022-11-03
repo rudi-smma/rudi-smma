@@ -3,7 +3,7 @@
 
 I love to code, linux, opensource freesofware. 
 
-- 🏢 I'm currently working at **Worklife**
+- 🏢 I'm currently working at **SQEID**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
